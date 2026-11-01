@@ -6,10 +6,10 @@ NetID: dal915590
 
 Section: CS3345.501
 
-Description:
+# Description
 
-Performance:
+# Performance
 
-Discussion:
+# Discussion
 
-Conclusion:
+# Conclusion:
